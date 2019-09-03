@@ -1,1 +1,1 @@
-"# catalogue-ms-backend cr‚er une application web JEE qui permet des g‚rer des produits class‚s par cat‚gories" 
+# catalogue-ms-backend crâ€šer une application web JEE qui permet des gâ€šrer des produits classâ€šs par catâ€šgories
